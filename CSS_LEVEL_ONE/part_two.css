@@ -1,0 +1,21 @@
+body {
+  background-color: gray;
+  background: url(https://pbs.twimg.com/media/EEuIojgXkAIHE-9.jpg);
+  background-repeat: no-repeat;
+}
+
+div {
+  background-color: blue;
+  border-color: white;
+  border-width: 1px;
+  border-style: double;
+}
+
+span {
+  background-color: white;
+  color: black;
+}
+
+p{
+  color: white;
+}
