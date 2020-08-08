@@ -3,7 +3,7 @@ h1  {
   font-family: 'Oswald', sans-serif;
   font-family: 'Playfair Display', serif;
   font-size: 60px;
-  color: #f7fff7;
+
   background-color: #1a535c;
   padding: 50px 50px;
   border: 50px solid #4ecdc4;
@@ -11,4 +11,5 @@ h1  {
 
 body {
   background-color: #4ecdc4;
+  color: #f7fff7;
 }
