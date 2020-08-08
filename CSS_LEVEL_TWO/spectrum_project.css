@@ -1,0 +1,33 @@
+h1  {
+ text-align: center;
+ font-family: 'Playfair Display', serif;
+}
+.art {
+  margin: auto;
+}
+td {
+  background-color: black;
+  height: 300px;
+  width: 150px;
+  border: 6px solid white;
+}
+#td_one {
+  background-color: #1a535c;
+}
+
+#td_two {
+  background-color: #4ecdc4;
+}
+
+#td_three {
+  background-color: #f7fff7;
+}
+
+
+#td_four {
+  background-color: #ff6b6b;
+}
+
+#td_five {
+  background-color: #ffe66d;
+}
